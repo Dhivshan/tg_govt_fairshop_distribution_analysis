@@ -1,0 +1,2 @@
+# tg_govt_fairshop_distribution_analysis
+Telangana government Ration shop distribution analysis system
