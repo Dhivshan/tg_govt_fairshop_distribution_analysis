@@ -5,7 +5,7 @@ import folium
 from streamlit_folium import st_folium
 
 # --- Load Data ---
-df = pd.read_csv("C://Users//cxsha//PycharmProjects//Telangana_govt_ration_distribution_analysis//data//clustering_results_streaming_2.csv")
+df = pd.read_csv("..//data//clustering_results_streaming_2.csv")
 
 st.write("Columns in CSV:", df.columns.tolist())
 st.write("Number of rows:", len(df))
